@@ -3,13 +3,16 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
+        <entry key="..\:/Source/HTL/htl_android_mars_app/app/src/main/res/layout/fragment_overview.xml" value="0.296195652173913" />
+        <entry key="..\:/Source/HTL/htl_android_mars_app/app/src/main/res/layout/grid_view_item.xml" value="0.296195652173913" />
         <entry key="..\:/code/HTL/android-basics-kotlin-mars-photos-app/app/src/main/res/layout/activity_main.xml" value="0.2056159420289855" />
         <entry key="..\:/code/HTL/android-basics-kotlin-mars-photos-app/app/src/main/res/layout/fragment_overview.xml" value="0.19746376811594202" />
         <entry key="..\:/code/HTL/android-basics-kotlin-mars-photos-app/app/src/main/res/layout/grid_view_item.xml" value="0.19746376811594202" />
       </map>
     </option>
   </component>
-  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="1.8" project-jdk-type="JavaSDK">
+  <component name="ExternalStorageConfigurationManager" enabled="true" />
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_14" project-jdk-name="1.8" project-jdk-type="JavaSDK">
     <output url="file://$PROJECT_DIR$/build/classes" />
   </component>
   <component name="ProjectType">
